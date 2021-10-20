@@ -282,10 +282,10 @@ public class AddFrame extends javax.swing.JFrame {
             String stressPattern = stressWordField.getText();
             String wordType = wordTypeTextFied.getText();
             Word newWord = new Word(s,explainString,stressPattern,wordType);
-            System.out.println(newWord.toString());
+            dic.getWords().add(newWord);
             try {
                 FileWriter output = new FileWriter("F:\\PROGRAMMING\\ATM_PRJ\\mavenproject1\\src\\main\\java"
-                        + "\\image\\folder\\dictionaries.txt",true);
+                        + "\\image\\folder\\dictionary.txt",true);
                 PrintWriter pw = new PrintWriter(output);
                 pw.print(newWord.toString());
                 pw.close();

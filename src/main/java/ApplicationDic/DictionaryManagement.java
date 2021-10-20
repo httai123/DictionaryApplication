@@ -41,19 +41,22 @@ public class DictionaryManagement {
     public void FileAfterDelete(){
         try {
             FileWriter fw = new FileWriter("F:\\\\PROGRAMMING\\\\ATM_PRJ" +
-                    "\\\\mavenproject1\\\\src\\\\main\\\\java\\\\image\\\\folder\\\\dictionaries.txt");
+                    "\\\\mavenproject1\\\\src\\\\main\\\\java\\\\image\\\\folder\\\\dictionary.txt");
+            BufferedWriter bw = new BufferedWriter(fw);
             for(Word i : getWords()){
-                fw.write(i.toString()+"\n");
+                bw.write(i.toString());
+                bw.newLine();
             }
+            bw.close();
             fw.close();
-        } catch (IOException e){
+        } catch (Exception e){
             e.printStackTrace();
         }
     }
     public void readFromFile() {
         try {
             FileReader fr = new FileReader("F:\\\\PROGRAMMING\\\\ATM_PRJ" +
-                    "\\\\mavenproject1\\\\src\\\\main\\\\java\\\\image\\\\folder\\\\dictionaries.txt");
+                    "\\\\mavenproject1\\\\src\\\\main\\\\java\\\\image\\\\folder\\\\dictionary.txt");
             BufferedReader br = new BufferedReader(fr);
             String line = "";
             while (true) {
@@ -72,6 +75,7 @@ public class DictionaryManagement {
                 wordExplains.add(wordExplain);
                 words.add(new Word(wordTarget, wordExplain, stressPat, wordType));
             }
+
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -155,53 +159,53 @@ public class DictionaryManagement {
 //        }
     //}
 
-    public void removeChosenLine(String file, String lineToRemove) {
-
-        try {
-
-            File inFile = new File(file);
-
-            if (!inFile.isFile()) {
-                System.out.println("Parameter is not an existing file");
-                return;
-            }
-
-            //Construct the new file that will later be renamed to the original filename.
-            File tempFile = new File(inFile.getAbsolutePath() + ".tmp");
-
-            BufferedReader br = new BufferedReader(new FileReader(file));
-            PrintWriter pw = new PrintWriter(new FileWriter(tempFile));
-
-            String line = null;
-
-            //Read from the original file and write to the new
-            //unless content matches data to be removed.
-            while ((line = br.readLine()) != null) {
-
-                if (!line.trim().equals(lineToRemove)) {
-
-                    pw.println(line);
-                    pw.flush();
-                }
-            }
-            pw.close();
-            br.close();
-
-            //Delete the original file
-            if (!inFile.delete()) {
-                System.out.println("Could not delete file");
-                return;
-            }
-
-            //Rename the new file to the filename the original file had.
-            if (!tempFile.renameTo(inFile))
-                System.out.println("Could not rename file");
-
-        } catch (FileNotFoundException ex) {
-            ex.printStackTrace();
-        } catch (IOException ex) {
-            ex.printStackTrace();
-        }
-    }
+//    public void removeChosenLine(String file, String lineToRemove) {
+//
+//        try {
+//
+//            File inFile = new File(file);
+//
+//            if (!inFile.isFile()) {
+//                System.out.println("Parameter is not an existing file");
+//                return;
+//            }
+//
+//            //Construct the new file that will later be renamed to the original filename.
+//            File tempFile = new File(inFile.getAbsolutePath() + ".tmp");
+//
+//            BufferedReader br = new BufferedReader(new FileReader(file));
+//            PrintWriter pw = new PrintWriter(new FileWriter(tempFile));
+//
+//            String line = null;
+//
+//            //Read from the original file and write to the new
+//            //unless content matches data to be removed.
+//            while ((line = br.readLine()) != null) {
+//
+//                if (!line.trim().equals(lineToRemove)) {
+//
+//                    pw.println(line);
+//                    pw.flush();
+//                }
+//            }
+//            pw.close();
+//            br.close();
+//
+//            //Delete the original file
+//            if (!inFile.delete()) {
+//                System.out.println("Could not delete file");
+//                return;
+//            }
+//
+//            //Rename the new file to the filename the original file had.
+//            if (!tempFile.renameTo(inFile))
+//                System.out.println("Could not rename file");
+//
+//        } catch (FileNotFoundException ex) {
+//            ex.printStackTrace();
+//        } catch (IOException ex) {
+//            ex.printStackTrace();
+//        }
+//    }
 
 }

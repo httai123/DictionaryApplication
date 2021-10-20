@@ -1,4 +1,0 @@
-fdad;dadad;/dadad/;xin chao
-
-// update file dictionaries theo format nay:
-tu tieng anh;loai tu;trong am; nghia tiengViet

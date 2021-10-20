@@ -202,7 +202,7 @@ public class DeleteFrame extends javax.swing.JFrame {
         // TODO add your handling code here:
         dic = new DictionaryManagement();
         dic.readFromFile();
-        String file = "F:\\PROGRAMMING\\ATM_PRJ\\mavenproject1\\src\\main\\java\\image\\folder\\dictionaries.txt";
+        String file = "F:\\PROGRAMMING\\ATM_PRJ\\mavenproject1\\src\\main\\java\\image\\folder\\dictionary.txt";
         String s = deleteWordField.getText();
         int find = dic.search_check(s);
         if (find != -1) {

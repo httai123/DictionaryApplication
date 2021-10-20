@@ -20,7 +20,7 @@ import javax.swing.ListSelectionModel;
  * @author Admin
  */
 public class SearchFrame extends javax.swing.JFrame {
-    DictionaryManagement dic = new DictionaryManagement();
+    DictionaryManagement dic;
     DefaultListModel defaultListModel = new DefaultListModel();
     /**
      * Creates new form SearchFrame
@@ -30,6 +30,7 @@ public class SearchFrame extends javax.swing.JFrame {
         this.bindData();
     }
     private ArrayList getWords(){
+        dic = new DictionaryManagement();
         dic.readFromFile();
         ArrayList words = new ArrayList();
         for(int i= 0;i<dic.getWordTargets().size();i++){
@@ -248,6 +249,7 @@ public class SearchFrame extends javax.swing.JFrame {
 
     private void searchGoButtonMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_searchGoButtonMouseClicked
         // TODO add your handling code here:
+        dic = new DictionaryManagement();
         dic.readFromFile();
         String s = wordField.getText();
         int find = dic.search_check(s);
