@@ -1,6 +1,7 @@
 package ApplicationDic;
 
 
+import java.util.Collections;
 import java.util.Objects;
 
 public class Word {

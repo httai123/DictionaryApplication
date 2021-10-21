@@ -298,12 +298,14 @@ public class AddFrame extends javax.swing.JFrame {
             addSuccess.pack();
             addSuccess.setLocationRelativeTo(null);
             addSuccess.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+            this.dispose();
         } else {
             AddError addError = new AddError();
             addError.setVisible(true);
             addError.pack();
             addError.setLocationRelativeTo(null);
             addError.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+            this.dispose();
         }
     }//GEN-LAST:event_StartAddWordButtonMouseClicked
 
