@@ -1,2 +1,161 @@
-abandon;verb;/abandon/;cam can ai do lam gi do
+advice;noun;/əd'vais/;lời khuyên	
+aegis;noun;/'i:dʒis/;sự che chở, sự bảo vệ
+aerial;adjective;/'eəriəl/;trên không, thuộc về hàng không
+aerobics;noun;/eə'roubiks/;thể dục nhịp điệu
+aesthetic;adjective;/i:s'θetik/;mang tính thẩm mỹ, có óc thẩm mỹ
+affable;adjective;/'æfəbl/;lịch sự, niềm nở
+affair;noun;/ə'feər/;vấn đề, mối quan tâm, việc
+affect;verb;/ə'fekt/;ảnh hưởng, tác động đến
+affiliate;verb;/ə'filieit/;nhận làm chi nhánh, nhận làm hội viên
+affinity;noun;/ə'finəti/;sự tương thích, ái lực
+affirm;verb;/ə'fɜ:m/;khẳng định, quả quuyết
+affix;verb, noun/ə'fiks/;đóng chặt vào, phụ tố
+after;preposition, adverb;/'ɑ:ftə[r]/;sau khi, phía sau
+afterglow;noun;/'ɑ:ftəgləʊ/;ráng chiều
+again;adverb;/ə'gein/;lại, lần nữa, nữa
+age;noun;/eidʒ/;tuổi
+agenda;noun;/ə'dʒendə/;chương trình nghị sự
+agent;noun;/'eidʒənt/;tác nhân(hóa học), người đại lý, điệp viên
+aggregate;verb, noun, adjective;/'ægrigeit/;tổng số lên tới, tổng số, khối tập hợp, gộp lại
+aggression;noun;/ə'gre∫n/;sự xâm lược, sự gây gổ
+aggrieved;adjective;/ə'gri:vd/;cảm thấy oán hận,phẫn uất
+aggro;noun;/'ægrəʊ/;sự gây gổ
+aghast;adjective;/ə'gɑ:st/;kinh hoàng, thất kinh
+agile;adjective;/ædʒl/;nhanh nhẹn, linh lợi, hoạt bát 
+albeit;conjunction;/,ɔ:l'bi:it/;mặc dù
+agitate;verb;/'ædʒiteit/;làm cho bối rối, khích động, kích thích
+ago;adverb;/ə'gəʊ/;trước đây; cách đây
+agony;noun;/'ægəni/;sự đau đớn, sự khổ sở, sự thống khổ
+agree;verb;/ə'gri:/;đồng ý, thỏa thuận, chấp thuận
+agreement;noun;/ə'gri:mənt/;thỏa ước, hợp đồng 
+ague;noun;/'eigju:/;cơn sốt rét
+ahead;adverb, adjective;/ə'hed/;trước, về phía trước, hơn, vượt
+aid;noun, verb;/eid/;sự giúp đỡ, viện trợ, giúp đỡ
+ail;verb;/eil/;ốm yếu, làm đau khổ
+aim;verb, noun;/eim/;nhắm, nhằm, mục đích, ý định
+air;noun;/eə[r]/;không khí
+airborne;adjective;/'eəbɔ:n/;không vận, ở trên không
+ajar;adjective;/ə'dʒɑ:[r]/;hé mở
+akin;adjective;/ə'kin/;giống với, tựa như
+alarm;noun;/ə'lɑ:m/;sự báo động, đồng hồ báo thức
+alas;exclamation;/ə'læs/;ôi thôi!, chao ôi
+album;noun;/'ælbəm/;anbum 
+alcohol;noun;/'ælkəhɒl/;rượu, cồn
+aleatory;adjective;/'eiliətəri/;may rủi, không chắc, bấp bênh
+alert;adjective, noun, verb;/ə'lɜ:t/;cảnh giác, sự báo động, báo cho, báo động cho biết
+algae;noun;/'ældʒi:/;tảo
+algebra;noun;/'ældʒibrə/;đại số
+alias;noun;/'eiliəs/;tên hiệu, bí danh
+alibi;noun;/'ælibai/;bằng chứng ngoại phạm
+alight;verb, adjective;/ə'lait/;xuống, bước xuống, bốc cháy, bừng lên
+align;verb;/ə'lain/;sắp thẳng hàng, liên kết
+alimentary;adjective;/,æli'mentəri/;đồ ăn, dinh dưỡng
+alive;adjective;/ə'laiv/;sống, còn sống, hoạt bát
+all;determiner;/ɔ:l/;tất cả, toàn bộ
+allege;/ə'ledʒ/;verb;viện lẽ, viện ra
+allegiance(+ to);noun;/ə'li:dʒəns/;lòng trung thành
+allergy;noun;/'ælədgi/;dị ứng
+alliance;noun;/ə'laiəns/;khối liên minh
+allocate;verb;/'æləkeit/;phân, cấp
+allow;verb;/ə'laʊ/;cho phép, chấp nhận
+ally;verb, noun;/ə'lai/;liên kết, đồng minh
+almond;noun;/'ɑ:mənd/;cây hạnh; quả hạnh
+almost;adverb;/'ɔ:lməʊst/;hầu như, suýt
+aloft;adverb;/ə'lɒft/;ở trên cao
+aloof;adjective;/ə'lu:f/;lạnh lùng hờ hững
+already;adverb;/ɔ:l'redi/;đã, rồi
+altar;noun;/'ɔ:ltə[r]/;bàn thờ
+alter;verb;/'ɔ:ltər/;thay đổi, đổi
+alternative;adjective, noun;/ɔ:l'tɜ:nətiv/;khác, sự lựa chọn
+altitude;noun;/'æltitju:d/;độ cao (so với mặt biển)
+amalgamate;verb;/ə'mælgəmeit/;hỗn hợp, hợp nhất
+amaze;verb;/ə'meiz/;làm kinh ngạc, làm sửng sốt
+ambience;noun;/'æmbiəns/;không khí (nghĩa bóng); môi trường
+ambiguous;adjective;/,æm'bigjʊəs/;tối nghĩa, nhập nhằng, nước đôi
+ambush;noun, verb;/'æmbʊ∫/;sự phục kích, phục kích
+amend;verb;/ə'mend/;sửa đổi
+among;preposition;/ə'mʌη/;trong số, giữa 
+amount;noun, verb;/ə'maunt/;số lượng, bằng, lên tới
+analyse;verb;/'ænəlaiz/;phân tích
+analysis;noun;/ə'næləsis/;sự phân tích
+animal;noun;/'æniməl/;động vật
+annual;adjective;/'ænjʊəl/;thường niên, hàng năm
+anxiety;noun;/æη'zaiəti/;sự lo lắng; mối lo lắng
+apparent;adjective;/ə'pærənt/;rõ ràng, bày rõ ra ngoài
+appear;verb;/ə'piə[r]/;xuất hiện
+applicable;adjective;/'æplikə'bl/;có thể áp dụng được
+application;noun;/,æpli'kei∫n/;đơn xin, sự ứng dụng
+apply;verb;/ə'plai/;xin, thỉnh cầu
+approach;verb, noun;/ə'prəʊt/;đến gần, gần đạt tới, sự tiếp cận
+appropriate;adjective;/ə'prəʊpriət/;thích hợp
+appropriately;adverb;/ə'prəʊpriətli/;thích hợp
+approximately;adverb;/ə'prɒksimətli/;xấp xỉ, khoảng chừng
+approximation;noun;/ə,prɒksi'mei∫n/;số lượng khoảng chừng, sự gần đúng
+area;noun;/'eəriə/;vùng, diện tích, khu vực
+argue;verb;/'ɑ:gju:/;tranh cãi, tranh luận
+arise;verb;/ə'raiz/;xuất hiện, nổi lên
+arrangement;noun;/ə'reindʒmənt/;sự sắp xếp, sự thỏa thuận
+article;noun;/'ɑ:tikl/;vật phẩm, bài báo, mạo từ
+aspect;noun;/'æspekt/;mặt, phương diện, dáng vẻ
+assert;verb;/ə'sɜ:t/;đòi, khẳng định
+assertion;noun;/ə'sɜ:∫n/;sự khẳng định
+absolute;adjective;/'æbsəlu:t/;tuyệt đối, hoàn toàn, chắc chắn
+academic;adjective;/,ækə'demik/;chỉ có giá trị lý thuyết
+accept;verb;/ək'sept/;chấp nhận, thừa nhận
+acceptance;noun;/ək'septəns/;sự chấp thuận, sự tán thành
+access;verb, noun;/'ækses/;truy nhập, lối vào
+accessible;adjective;/æk'sesəbl/;có thể tới được
+according(to);preposition;/ə'kɔ:diŋ/;theo như
+account;verb, noun;/ə'kaʊnt/;ghi chép, báo cáo, tài khoản
+accountability;/ə'kaʊntə'biliti/;
+nountính chất khả tính, trách nhiệm
+accumulate;verb;/ə'kju:mjʊleit/;tích lũy
+accumulation;noun;/ə,kju:mjʊ'lei∫n/;sự chồng chất, sự tích lại
+accuracy;noun;/'ækjərəsi/;sự chính xác, độ chính xác
+acquisition;noun;/ækwi'zi∫n/;sự đạt được
+active;adjective;/'æktiv/;linh lợi, có công hiệu, có công hiệu
+activity;noun;/æk'tiviti/;hoạt động
+actual;adjective;/'æktjʊəl/;thực, thật, thực sự
+adapt;verb;/ə'dæpt/;thích nghi
+addition;noun;/ə'di∫n/;phép tính cộng, sự cộng lại
+adjust;verb;/ə'dʒʌst/;sửa lại, hiệu chỉnh
+administer;verb;/əd'ministə[r]/;cấp cho, thi hành, quản lý
+administration;noun;/əd,minis'trei∫n/;việc quản trị
+adopt;verb;/ə'dɒpt/;nhận làm con nuôi, theo
+advantage;noun;/əd'vɑ:ntidʒ/;lợi, lợi thế
+attribute;noun, verb;/ə'tribju:t/;quy cho
+author;noun;/'ɔ:θə[r]/;tác giả
+authority;noun;/ɔ:'θɒrəti/;quyền lực, quyền thế
+available;adjective;/ə'veiləbl/;có thể dùng được, rảnh 
+average;verb, adjective, noun;/'ævəridʒ/;tính trung bình, trung bình, số trung bình
+avoid;verb;/ə'vɔid/;tránh, ngừa
+aware;verb;/ə'weə[r]/;nhận biết
+background;noun;/'bækgraʊnd/;nền, bối cảnh, xuất thân
+balance;verb, noun;/,bæləns/;cân bằng, cái cân, sự cân đối
+barrier;noun;/bæriə[r]/;cái chắn đường, hàng rào
+base;noun, verb;/beis/;cơ sở, bazơ, căn cứ, nền, dựa vào
+basic;adjective;/'beisik/;cơ bản
+basis;noun;/'beisis/;nền tảng;cơ sở
+behave;verb;/bi'heiv/;vận hành, ứng xử
+behaviour;noun;/bi'heivjə[r]/;tập tính, cách ứng xử
+belief;noun;/bi'li:f/;lòng tin, đức tin,tín ngưỡng
+below;preposition;/bi'ləʊ/;dưới
+beneficial;adjective;/,beni'fi∫l/;có ích, có lợi, tốt
+between;preposition;/bi'twi:n/;giữa
+beyond;preposition;/bi'jɒnd/;quá, ngoài, ngoại trừ
+bias;noun;/'baiəs/;khuynh hướng thiên về, thiên vị
+broad;adjective;/brɔ:d/;rộng, khái quát
+burden;noun;/'bɜ:dn/;gánh nặng
+can;noun, verb;/kæn/;lon, hộp, có thể
+capability;noun;/,keipə'biləti/;khả năng
+capable;adjective;/'keipəbl/;có tài, có năng lực
+capacity;noun;/kə'pæsəti/;sức chứa, năng suất
+care;verb, noun;/keə[r]/;để ý đến, quan tâm đến, sự cẩn thận, sự thận trọng, sự chăm sóc
+case;noun;/keis/;trường hợp, ca, hộp, hòm
+categorize;verb;/'kætigəraiz/;chia loại, phân loại
+category;noun;/'kætəgəri/;hạng, loại
+causal;adjective;/'kɔ:zl/;thuộc quan hệ nhân quả
+causation;noun;/kɔ:'zei∫n/sự tạo ra hậu quả, nguyên nhân
+cause;noun, verb;/kɔ:z/;nguyên nhân, gây ra
+central;noun;/'sentrəl/;ở trung tâm
 donkey;noun;/ˈdɑŋki/;con lừa
