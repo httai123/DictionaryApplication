@@ -158,4 +158,746 @@ causal;adjective;/'kɔ:zl/;thuộc quan hệ nhân quả
 causation;noun;/kɔ:'zei∫n/sự tạo ra hậu quả, nguyên nhân
 cause;noun, verb;/kɔ:z/;nguyên nhân, gây ra
 central;noun;/'sentrəl/;ở trung tâm
-donkey;noun;/ˈdɑŋki/;con lừa
+center;noun;/'sentə[r]/;trung tâm
+century;noun;/'sent∫əri/;thế kỷ
+certain;adjective;/'sɜ:tn/;chắc, chắc chắn
+certainty;noun;/'sɜ:tnli/;điều chắc chắn
+chain;noun, verb;/t∫ein/;dây, xích, chuỗi, trói buộc
+challenge;noun, verb;/'t∫ælindʒ/;sự thách thức, thách thức
+change;noun, verb;/t∫eindʒ/;sự thay đổi,  thay đổi
+channel;> noun;/'t∫ænl/;kênh
+character;noun;/'kærəktə[r]/;tính cách, nhân vật, chữ
+characteristic;adjective, noun;/,kærəktə'ristik/;đặc thù, đặc trưng,[nét] đặc trưng
+characterize;verb;/'kæriktəraiz/;biểu thị đặc điểm, mô tả đặc điểm
+choice;noun;/'t∫ɔis/;sự lựa chọn, lựa chọn
+circumstance;noun;/'sɜ:kəmstəns/;hoàn cảnh
+cite;verb;/sait/;trích dẫn, dẫn
+city;noun;/'siti/;thành phố
+claim;noun, verb;/kleim/;lời khẳng định, nhận, tự cho là,cướp đi
+classic;adjective;/'klæsik/;điển hình, theo kiểu cổ truyền
+classical;adjective;/'klæsikl/;kinh điển, cổ điển
+classification;noun;/,klæsifi'kei∫n/;sự phân loại
+clear;verb, adjective;/kliə[r]/;rõ, trong
+climate;noun;/'klaimit/;khí hậu
+code;verb. noun;/kəʊd/;mã, mật mã,mã hóa
+column;noun;/'kɒləm/;cột, trụ
+combine;verb;/kəm'bain/;kết hợp, phối hợp
+commercial;adjective, noun;/kə'mɜ:∫l/;[thuộc] thương mại, mang tính thương mại, buổi truyền hình quảng cáo
+commit;verb;/kə'mit/;phạm, đưa lên tòa cao hơn, cam kết, giao, chuyển
+commitment;noun;/kə'mitəmənt/;sự tận tụy
+common;adjective;/'kɒmən/;phổ biến, phổ thông, thông thường
+communicate;verb;/kə'mju:nikeit/;truyền đạt, liên lạc
+communication;noun;/kə,mju:ni'kei∫n/;sự liên lạc
+community;noun;/kə'mju:nəti/;cộng đồng
+comparable;adjective;/'kɒmpərəbl/;có thể so sánh
+compare;verb;/kəm'peə[r]/;so, đối chiếu
+compete;verb;/kəm'pi:t/;ganh đua, cạnh tranh
+competition;noun;/,kəmpə'ti∫n/;cuộc tranh tài, cuộc thi đấu
+complex;adjective, noun;/'kɒmpleks/;phức tạp, phức hệ
+component;noun;/kəm'pəʊnənt/;thành phần, bộ phận cấu thành
+composition;noun;/,kɒmpə'zi∫n/;sự sáng tác, tác phẩm, cấu tạo, kết cấu
+comprehensive;adjective;/,kɒmpri'hensiv/;bao quát, toàn diện
+comprise;verb;/kəm'praiz/;bao gồm, gồm có
+conceive;verb;/kən'si:v/;nghĩ, quan niệm, thụ thai
+concept;noun;/'kɒnsept/;khái niệm
+conception;noun;/kən'sep∫n/;sự thụ thai, ý niệm
+conceptual;adjective;/kən'sept∫ʊəl/;[dựa trên] khái niệm
+concern;verb, noun;/kən'sɜ:n/;liên quan, lo lắng, sự lo lắng
+conclude;verb;/kən'klu:d/;kết thúc, kết luận
+conclusion;noun;/kən'klu:ʒn/;kết luận
+condition;noun, verb;/kən'di∫n/;tình trạng, điều kiện,làm cho quen với
+conditional;adjective;/kən'di∫ənl/;có điều kiện
+conduct;verb, noun;/'kɒndʌkt/;hạnh kiểm, chỉ đạo, điều khiển, hướng dẫn, dẫn
+confirm;verb;/kən'fɜ:m/;xác nhận, chứng thực
+conflict;noun, verb;/kən'flikt/;sự mâu thuẫn, xung đột
+connect;verb;/kə'nekt/;nối, liên kết
+consensus;noun;/kən'sensəs/;sự nhất trí
+consent;verb, noun;/kən'sent/;đồng ý, ưng thuận,sự đồng ý
+consequence;noun;/'kɒnsikwəns/;hậu quả
+conservation;noun;/,kɒnsə'vei∫n/;sự bảo tồn
+conservative;adjective;/kən'sɜ:vətiv/;bảo thủ, dè dặt, vừa phải
+conserve;verb;/kən'sɜ:v/;bảo vệ, bảo tồn, bảo toàn
+considerable;adjective;/kən'sidərəbl/;rất lớn, to tát
+considerably;adverb;/kən'sidərəbli/;rất lớn, nhiều
+consideration;noun;/kən,sidə'rei∫n/;sự xem xét, sự cân nhắc
+consist;verb;/kən'sist/;gồm có
+consistency;noun;/kən'sistənsi/;độ đặc, kiên định
+consistent;adjective;/kən'sistənt/;kiên định,
+constant;adjective, noun;/'kɒnstənt;liên tục, không đổi, hằng số
+constitute;verb;/'kɒnstitju:t/;tạo thành, cấu thành, thiết lập
+constrain;verb;/kən'strein/;cưỡng ép, ép buộc, ép
+constraint;noun;/kən'streint/;sự ép buộc, điều gò bó
+construct;noun, verb;/kən'strʌkt/;xây dựng
+construction;noun;/kən'strʌk∫n/;sự xây dựng, tòa nhà
+constructive;adjective;/kən'strʌktiv/;[có tính cách] xây dựng
+consume;verb;/kən'sju:m/;tiêu dùng
+consumption;noun;/kən'sʌmp∫n/;sự tiêu dùng
+contact;noun, verb;/'kɒntæt/;sự tiếp xúc, sự liên lạc, tiếp xúc, liên lạc
+contain;verb;/kən'tein/;chứa, kiềm chế, nén lại
+contemporary;adjective;/kən'temprəri/;cùng thời; đương thời
+content;verb, adjective, noun;/kən'tent/;bằng lòng, vừa lòng, nội dung
+context;noun;/'kɒntekst/;ngữ cảnh
+continuity;noun;/'kɒntinju:əti/;sự liên tục; tính liên tục
+continuous;adjective;/kən'tinjʊəs/;liên tục
+contrast;noun, verb;/kən'trɑ:st/;sự tương phản, tương phản
+contribute;verb;/kən'tribju:t/;góp, đóng góp
+contribution;noun;/,kɒntri'bju:∫n/;sự đóng góp
+control;noun, verb;/kən'trəʊl/;sự kiểm soát, nắm quyền, điều khiển
+convention;noun;/kən'ven∫n/;hội nghị
+conventional;adjective;
+conversion;noun;
+convert;verb;
+cooperation;noun;
+cooperative;adjective;
+coordinate;noun, verb; 
+core;noun;
+correct;adjective;
+correction;noun;
+correlate;verb;
+correlation;noun;
+correspond;verb;
+country;noun;
+coverage;noun;
+create;verb;
+creation;noun;
+creative;adjective;
+criterion;noun;
+critical;adjective;
+critically;adverb;
+criticize;verb;
+crucial;adjective;
+cultural;adjective; 
+culturally;adverb;
+culture;noun;
+cumulative;adjective;
+current;adjective;
+current;noun;
+currently;adverb;
+cycle;noun;
+data;noun;
+deal;verb;
+debate;noun;
+decade;noun;
+decision;noun;
+decline;noun, verb;
+decrease;noun;
+decrease;verb;
+define;verb;
+definition;noun;
+degree;noun;
+demand;noun; 
+demonstrate;verb;
+denote;verb;
+depend;verb;
+dependence;noun;
+dependent;adjective;
+derive;verb;
+criticize;verb;
+crucial;adjective;
+cultural;adjective;
+culturally;adverb;
+culture;noun;
+cumulative;adjective;
+current;adjective;
+current;noun;
+currently;adverb;
+cycle;noun;
+data;noun;
+deal;verb;
+debate;noun;
+decade;noun;
+decision;noun;
+decline;noun;
+decline;verb;
+decrease;noun;
+decrease;verb;
+define;verb;
+definition;noun;
+degree;noun;
+demand;noun;
+demonstrate;verb;
+denote;verb;
+depend;verb;
+dependence;noun;
+dependent;adjective;
+derive;ver;
+investigator;noun;
+involve;verb;
+involvement;noun;
+irrelevant;adjective;
+isolated;adjective;
+isolation;noun;
+issue;noun;
+item;noun;
+judgement;noun;
+justification;noun;
+justify;verb;
+key;adjective;
+knowledge;noun;
+label;noun;
+label;verb;
+lack;noun;
+lack;verb;
+language;noun;
+large;adjective;
+largely;adverb;
+latter;noun;
+law;noun;
+leader;noun;
+leadership;noun;
+learning;noun;
+legal;adjective;
+legally;adverb;
+less;adverb;
+less;determiner;
+less;pronoun;
+level;noun;
+likely;adjective;
+likely;adverb;
+limit;noun;
+limit;verb;
+limitation;noun;
+limited;adjective;
+line;noun;
+link;noun;
+link;verb;
+list;noun;
+list;verb;
+literature;noun;
+local;adjective;
+localized;adjective;
+locally;adverb;
+located;adjective;
+location;noun;
+logic;noun ;
+logical;adjective;
+loss;noun;
+low;adjective;
+main;adjective;
+maintain;verb;
+major;adjective;
+majority;noun;
+male;adjective ;
+male;noun;
+many;adjective;
+many;determiner
+margin;noun;
+material;adjective;
+material;noun;
+matter;noun;
+maximize;verb;
+maximum;adjective;
+maximum;noun ;
+may;verb;
+meaning;noun;
+meaningful;adjective;
+means;noun
+measure;noun;
+measure;verb
+mechanism;noun;
+media;noun;
+mediate;verb;
+medical;adjective;
+medium;noun;
+member;noun;
+mental;adjective ;
+method;noun;
+methodological;adjective;
+methodology;noun;
+might;verb;
+migrate;verb;
+migration;noun;
+minimal;adjective;
+minimize;verb;
+minimum;adjective;
+minimum;noun;
+minor;adjective;
+minority;noun;
+mix;verb;
+mobile;adjective;
+mobility;noun;
+mobilize;verb;
+mode;noun;
+model;noun;
+model;verb;
+modelling;noun;
+modern;adjective;
+modernity;noun;
+modernization;noun;
+modify;verb;
+monitor;verb;
+moreover;adverb;
+most;determiner;
+motivate;verb;
+motivation;noun;
+movement;noun;
+multiple;adjective;
+must;verb;
+namely;adverb;
+national;adjective;
+national;noun;
+natural;adjective;
+naturally;adverb;
+nature;noun;
+necessarily;adverb;
+necessary;adjective;
+necessity;noun;
+need;noun;
+negative;adjective;
+negatively;adverb;
+net;adjective;
+network;noun;
+neutral;adjective;
+nevertheless;adverb;
+new;adjective;
+norm;noun;
+normal;adjective;
+normally;adverb
+note;verb;
+notion;noun;
+novel;adjective;
+number;noun;
+object;noun;
+objective;adjective;
+objective;noun;
+observation;noun;
+observe;verb;
+observer;noun;
+obtain;verb;
+occupation;noun;
+occupy;verb;
+occur;verb;
+occurrence;noun;
+offer;verb;
+often;adverb;
+ongoing;adjective;
+online;adjective;
+operate;verb;
+operation;noun;
+operational;adjective;
+opportunity;noun;
+optimal;adjective;
+option;noun;
+order;noun ;
+ordinary;adjective;
+organization;noun;
+organize;verb;
+orient;verb;
+orientation;noun;
+origin;noun;
+original;adjective;
+originally;adverb;
+originate;verb;
+other;adjective;
+otherwise;adverb;
+outcome;noun;
+outline;verb;
+output;nou;
+partially;adverb;
+participant;noun;
+participate;verb;
+participation;noun;
+particular;adjective;
+particular;noun;
+particularly;adverb;
+partly;adverb;
+pattern;noun;
+per;preposition;
+per;cent;adjective; 
+percent;noun;
+perceive;verb;
+percentage;noun;
+perception;noun;
+perform;verb;
+performance;noun;
+period;noun;
+permit;verb;
+personal;adjective;
+perspective;noun;
+phase;noun;
+phenomenon;noun;
+physical;adjective;
+point;noun;
+policy;noun;
+population;noun;
+pose;verb;
+position;noun;
+position;verb;
+positive;adjective;
+positively;adverb;
+possibility;noun;
+possible;adjective;
+potential;adjective;
+potential;noun;
+potentially;adverb;
+poverty;noun;
+power;noun;
+practical;adjective;
+practice;noun;
+practitioner ;noun;
+precede;verb;
+precise;adjective;
+precisely;adverb;
+precision;noun;
+predict;verb;
+prediction;noun;
+predominantly;adverb;
+preference;noun;
+presence;noun;
+present;adjective;
+present;noun;
+present;verb;
+presentation;noun;
+pressure;noun;
+prevent;verb;
+prevention;noun;
+previous;adjective;
+previously;adverb;
+primarily;adverb;
+primary;adjective;
+principle;noun;
+prior;adjective;
+priority;noun;
+private;adjective;
+probability;noun;
+problem;noun;
+problematic;adjective;
+procedural;adjective;
+procedure;noun;
+process;noun;
+process;verb;
+produce;verb;
+product;noun;
+production;noun;
+productive;adjective;
+professional;adjective;
+professional;noun;
+profile;noun;
+programme;noun;
+progress;noun;
+progression;noun;
+progressive;adjective;
+project;noun;
+project;verb;
+projection;noun;
+promote;verb;
+promotion;noun;
+proportion;noun;
+proportional;adjective;
+proposal;noun;
+propose;verb;
+proposition;noun;
+protect;verb;
+protection;noun;
+protocol;noun;
+provide;verb;
+psychological;adjective;
+public;adjective;
+public;noun;
+purpose;noun;
+qualitative;adjective;
+quality;noun;
+quantify;verb;
+quantitative;adjective;
+quantity;noun;
+question;noun;
+race;noun;
+random;adjective;
+randomize;verb;
+randomly;adverb;
+range;noun;
+range;verb;
+rapid;adjective;
+rapidly;adverb;
+rate;noun;
+rate;verb;
+rather;adverb;
+rating;noun;
+ratio;noun;
+rational;adjective;
+rationale;noun;
+rationality;noun;
+reaction;noun;
+readily;adverb;
+reality;noun;
+reason;noun;
+reasonable;adjective;
+reasonably;adverb;
+reasoning;noun;
+recent;adjective;
+recently;adverb;
+recognition;noun;
+recognize;verb;
+recommend;verb;
+reconstruct;verb;
+reconstruction;noun;
+record;noun;
+record;verb;
+recording;noun;
+recovery;noun;
+reduce ;verb;
+reduction;noun;
+refer;verb;
+reference;noun;
+reflect;verb;
+reflection;noun;
+regard;noun;
+regard;verb;
+regime;noun;
+region;noun;
+regional;adjective;
+regulation;noun;
+reinforce;verb;
+reject;verb;
+rejection;noun;
+relate;verb;
+related;adjective;
+relation;noun;
+relationship;noun;
+relative;adjective;
+relative;noun;
+relatively;adverb;
+release;noun;
+relevance;noun;
+relevant;adjective;
+reliability;noun;
+reliable;adjective;
+reliance;noun;
+rely;verb;
+removal;noun;
+remove;verb;
+replace;verb;
+replacement;noun;
+report;noun;
+report;verb;
+reporting;noun;
+represent;verb;
+representation;noun;
+representative;adjective;
+representative;noun;
+require;verb;
+requirement;noun;
+research;noun;
+researcher;noun;
+resident;noun;
+resistance;noun;
+resistant;adjective;
+resolution;noun;
+resolve;verb;
+resource;noun;
+respect;noun;
+respectively;adverb;
+respond;verb;
+response;noun;
+responsibility;noun;
+responsible;adjective;
+restrict;verb;
+restriction;noun;
+restrictive;adjective;
+result;noun;
+result;verb;
+reveal;verb;
+review;noun;
+right;noun;
+rise;noun;
+risk;noun;
+role;noun;
+root;noun;
+rule;noun;
+rural;adjective;
+safety;noun;
+sample;noun;
+sample;verb;
+sampling;noun;
+satisfaction;noun;
+satisfy;verb;
+scale;noun;
+scale;verb;
+scenario;noun;
+scheme;noun;
+science;noun;
+scientific;adjective;
+scope;noun;
+second;adverb;
+secondary;adjective;
+secondlyadverb;
+section;noun;
+sector;noun;
+security;noun;
+seek;verb;
+segment;noun;
+select;verb;
+selection;noun;
+selective;adjective;
+sense;noun;
+sensitive;adjective;
+sensory;adjective;
+separate;adjective;
+separate;verb;
+separately;adverb;
+separation;noun;
+sequence;noun;
+series;noun;
+service;noun;
+set;noun;
+sex;noun;
+sexual;adjective;
+sexuality;noun;
+shape;noun;
+shape;verb;
+share;noun;
+share;verb;
+shift;noun;
+should;verb;
+show;verb;
+significance;noun;
+significant;adjective;
+significantly;adverb;
+similar;adjective;
+similarity;noun;
+similarly;adverb;
+simple;adjective;
+simplify;verb;
+simply;adverb;
+simultaneous;adjective;
+simultaneously;adverb;
+single;adjective;
+site;noun;
+situation;noun;
+size;noun;
+skill;noun;
+so-called;adjective;
+social;adjective;
+socially;adverb;
+societal;adjective;
+society;noun;
+software;noun;
+solution;noun;
+solve;verb;
+source;noun;
+space;noun;
+spatial;adjective;
+specialist;noun;
+specialized;adjective;
+specific;adjective;
+specifically;adverb;
+specification;noun;
+specify;verb;
+sphere;noun;
+stability;noun;
+stabilize;verb;
+stable;adjective;
+stage;noun;
+standard;adjective;
+standard;noun;
+state;noun ;
+state;ver;
+test;noun;
+test;verb;
+text;noun;
+the;above;
+theme;noun;
+theoretical;adjective;
+theoretically;adverb;
+theory;noun;
+thereby;adverb;
+therefore;adverb;
+threat;noun;
+threshold;noun;
+thus;adverb;
+tool;noun;
+topic;noun;
+total;adjective;
+total;noun;
+traditional;adjective;
+traditionally;adverb;
+training;noun;
+transfer;noun;
+transfer;verb;
+transform;verb;
+transformation;noun;
+transition;noun;
+transmission;noun;
+transmit;verb;
+transport;noun;
+transport;verb;
+transportation;noun;
+treat;verb;
+treatment;noun;
+trend;noun;
+type;noun;
+typical;adjective;
+typically;adverb;
+ultimate;adjective;
+ultimately;adverb;
+uncertainty;noun;
+unclear;adjective;
+undergo;verb;
+underlying;adjective;
+understanding;noun;
+undertake;verb;
+undertaking;noun;
+unique;adjective;
+unit;noun;
+universal;adjective;
+unlikely;adjective;
+unrelated;adjective;
+unstable;adjective;
+upper;adjective;
+urban;adjective;
+usagenoun;
+use;noun;
+use;verb;
+useful;adjective;
+utility;noun;
+utilization;noun;
+utilize;verb;
+valid;adjective;
+validate;verb;
+validation;noun;
+validity;noun;
+valuable;adjective;
+value;noun;
+variable ;adjective;
+variable;noun;
+variance;noun;
+variation;noun;
+varied;adjective;
+variety;noun;
+various;adjective
+vary;verb;
+version;noun;
+versus;preposition;
+vertical;adjective;
+via;preposition;
+view;noun;
+view;verb;
+viewer;noun;
+violence;noun;
+visible;adjective;
+visual;adjective;
+volume;noun;
+voluntary;adjective;
+wealth;noun;
+website;noun;
+weight;noun;
+welfare;noun;
+whereas;conjunction;
+whether;conjunction;
+whole;noun;
+wide;adjective;
+widely;adverb;
+widespread;adjective;
+within;preposition;
+working;adjective;
+working;noun;
+world;noun;
+yield;noun, verb;
+
+
+
+
+
+
+
+
